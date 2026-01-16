@@ -20,7 +20,7 @@
  
   1. Clone the repository:
      ```bash
-     git clone https://github.com/mdzubayerhossain/Local-RAG-System-with-DeepSeek-and-Streamlit.git
+     git clone https://github.com/patowari/Local-RAG-System-with-DeepSeek-and-Streamlit.git
      cd local-rag-system
      ```
  
